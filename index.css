@@ -1,0 +1,51 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+ol{
+    line-height: 30px;
+    font-weight: bold;
+}
+li{
+    color: brown;
+    font-size: 18px;
+}
+
+.underlinig{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+ul{
+    letter-spacing: 4px;
+}
+.spanback{
+    font-weight: bold;
+    background-color: yellow;
+}
+p{
+    color: darkred;
+    font-size: 16px;
+}
+
+.last{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+    
+}
+ a:visited{
+     text-decoration: none;
+     color: red;
+ }
+
+ img{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 70px;
+     border-radius: 40px;
+ }
